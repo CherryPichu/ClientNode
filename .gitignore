@@ -1,0 +1,6 @@
+backup/
+
+.env
+
+DB.db
+
